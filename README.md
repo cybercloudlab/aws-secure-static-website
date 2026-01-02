@@ -15,5 +15,6 @@ Hands-on AWS project demonstrating secure static website hosting with a focus on
 - `notes/` → explanations of security decisions
 - `lessons-learned.md` → personal learning points
 ## Architecture Diagram
-architecture/secure-static-website-architecture.png
+
+![Secure Static Website Architecture](architecture/secure-static-website-architecture.png)
 

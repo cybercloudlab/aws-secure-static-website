@@ -14,3 +14,6 @@ Hands-on AWS project demonstrating secure static website hosting with a focus on
 - `screenshots/` → screenshots of AWS console/configuration
 - `notes/` → explanations of security decisions
 - `lessons-learned.md` → personal learning points
+## Architecture Diagram
+
+

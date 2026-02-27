@@ -7,7 +7,7 @@ Hands-on AWS project demonstrating secure static website hosting with a focus on
 - S3 (Static Website Hosting)
 - CloudFront (CDN)
 - IAM (Access Control)
-- Optional: CloudTrail & GuardDuty (Security Monitoring)
+
 
 ## Folder Structure
 - `architecture/` → diagrams and architecture visuals
